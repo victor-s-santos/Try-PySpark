@@ -30,3 +30,5 @@
     
     * 4.2 Access the browser
         -  http://localhost:8888/tree
+
+* The python version used is 3.10.9
